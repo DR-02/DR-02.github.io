@@ -65,7 +65,7 @@ nav ul li a:hover::after{
 /* -------------about------------- */
 #about{
     padding: 80px 0;
-    color: #ababab;
+    color: #ababab;        /*e*/
 }
 .row{
     display: flex;
@@ -85,7 +85,7 @@ nav ul li a:hover::after{
 .sub-title{
     font-size: 60px;
     font-weight: 600;
-    color: #a9d39e;
+    color: #a9d39e;        /*e*/
 }
 .tab-titles{
     display: flex;
