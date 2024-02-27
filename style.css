@@ -237,11 +237,12 @@ nav ul li a:hover::after{
     padding: 14px 50px;
     border-radius: 6px;
     text-decoration: none;
-    color: #fff;
+    color: #a9d39e;
     transition: background 0.4s;
 }
 .btn:hover{
     background: #a9d39e;
+    color: #1a1a1a;
 }
 
 /*--------------contact--------------*/
@@ -277,6 +278,7 @@ nav ul li a:hover::after{
 .btn.btn2{
     display: inline-block;
     background: #a9d39e;
+    color: #1a1a1a;
 }
 .contact-right form{
     width: 100%;
@@ -294,6 +296,7 @@ form input,form textarea{
 }
 form .btn2{
     padding: 14px 60px;
+    color: #1a1a1a;
     font-size: 18px;
     margin-top: 20px;
     cursor: pointer;
