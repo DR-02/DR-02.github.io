@@ -130,10 +130,10 @@ nav ul li a:hover::after{
 .tab-contents{
     list-style: none;
     margin: 10px 0;
+    line-height: 25px;
 }
 .tab-contents ul li span{
     color: #a9d39e;
-    line-height: 25px;
 }
 .tab-contents{
     display: none;
